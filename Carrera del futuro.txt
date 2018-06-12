@@ -1,0 +1,57 @@
+﻿<!Doctype html>
+<Html>
+<head>
+<title font face="Comic Sans MS"> Carrera Del Futuro</title>
+<audio src="F:\Ortiz Mejia Michael Giovanni\Musica\audio1.mp3" HIDDEN="true" autoplay="true"></audio>
+<style>
+body {
+        background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/3f/a1/71/3fa17175-b7d2-70be-867c-d37bd98511b8/pr_source.png/246x0w.jpg");
+}
+
+</style>
+</head>
+<body>
+<Font face="Comic Sans MS,arial,verdana" font color="white">
+<p align="center"> LA GENOMICA</p>
+<br><br>
+<p align="center"><Font face="Arial Black" size="5"> ¿Que es la Genomica?</font></p>
+<p>La genómica es un campo interdisciplinario de la ciencia dentro del campo de la biología molecular. Un genoma es un conjunto completo de ADN dentro de una sola célula de un organismo,
+ y como tal, la genómica se enfoca en la estructura, función, evolución y mapeo de los genomas. La genómica tiene como objetivo la caracterización colectiva y la cuantificación de los genes, que dirigen la producción de proteínas con la ayuda de enzimas y moléculas mensajeras. La genómica también implica la secuenciación y el análisis de genomas. Los avances en la genómica han desencadenado una revolución en la investigación basada en el descubrimiento para comprender incluso los sistemas biológicos más complejos en la actualidad, como el cerebro. En contraste con la genética, que se refiere al estudio de los genes individuales y sus roles en la herencia, la genómica utiliza la secuenciación de ADN de alto rendimiento y la bioinformática para ensamblar y analizar la función y la estructura de genomas completos. El campo también incluye estudios de fenómenos intragenómicos (dentro del genoma) como heterosis (vigor híbrido), epistasis (efecto de un gen sobre otro), pleiotropía (un gen que afecta a más de un rasgo) y otras interacciones entre loci y alelos dentro del genoma.</p>
+<br><br>
+<p>La genómica tiene muchas aplicaciones prácticas que benefician la producción pecuaria como son: </p>
+<br><br>
+<p>
+<ol>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>análisis de paternidad en el ganado de registro y pie de cría</li>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>selección de sementales y vientres con mejoras productivas y reproductivas</font></li>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>identificación de animales con resistencia a enfermedades</font></li>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>eliminación de las características no deseables que pudieran transmitirse</font></li>
+ </font></li>
+</ol>
+</p>
+<br><br>
+<p align="justified">Actualmente, para la realización de estas investigaciones México cuenta con dos Centros de Referencia y Mejoramiento Genético Pecuario, uno instalado en 
+Singuilucan, Hidalgo, dedicado al estudio y mejoramiento de razas pequeñas (borregos y chivos), y el otro en la Ciudad del Conocimiento, en Morelia, Michoacán,
+ que cuenta con sofisticados equipos para el análisis de cualquier especie animal.</p>
+<br><br>
+
+<p align="center"><Font face="Arial Black" size="5"> ¿Porque elegi esta carrera?</font></p>
+<p> Me llamo mucho la atencion esta carrera porque dentro de lo que es esta carrera, se lleva mucho lo que son las alteraciones geneticas de animales para modificar las cadenas 
+geneticas que se encuentran dentro de la herencia o codigo genetico, realizando experimentos para que el animal o el vegetal puedan aprovecharse al maximo, dejando mas ganacias
+como es para el mercad, como lo es para la persona que realmente de con la cadena exacta perfeccionando el ADN y sea de mayor productividad el animal o vegetal</p>
+<div align="center"><img src="F:\Ortiz Mejia Michael Giovanni\Imagenes\Genica.jpg">
+<br><br>
+<p align="center"><Font face="Arial Black" size="5"> Ramas de la Genomia</font>
+<p align="justified"> La genómica es una ciencia muy amplia y que se a dividió por esta razón en 3 ramas básicas que permiten una mayor especialización y así mismo un mayor entendimiento de los nuevos conceptos.</p>
+<p>
+<ol>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>Genómica comparativa: es básicamente la rama de la genómica que nos hizo dar cuenta de que tan relacionado esta el hombre del mono y de otros muchos animales pues es esta rama la encargada de estudiar tanto semejanzas como diferencias que existen en las características genéticas de diferentes especies</li>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>Genómica estructural: es esta la genómica que mas utilizan los médicos pues su principal función es organizar el genoma para una mayor comprensión
+Genómica Funcional: esta rama de la genómica nace ante el aumento de la información que se dio acerca de los genes con proyectos como el de proyecto </font></li>
+<li><font face="Aharoni" size="4"><Marquee></Marquee>genoma humano sin embargo y aun por estas épocas no a todos los genes se les a descrito una función y es de esto de lo que pretende encargarse esta rama de averiguar la función de cada gen y como se relaciona con otros genes</font></li>
+<div align="center"><img src="F:\Ortiz Mejia Michael Giovanni\Imagenes\Genomica.png">
+<br><br>
+ <video width="640" height="360" src="https://www.youtube.com/watch?v=3hAJG9swiVw"frameborder="5" allow="autoplay; encrypted-media" allowfullscreen></video>
+</font>
+</body>
+</html>
